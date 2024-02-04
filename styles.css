@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(7, 38, 54);
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: cursive;
+    color: gray;
+    text-shadow: 3px 5px rgb(31, 59, 94);
+}
+
+
+.div1,.div2,.div3,.div4{
+    display: inline-block;
+}
+.bt{
+    width: 180px;
+    height: 180px;
+    margin: 20px 10px;
+    border-radius: 20%;
+    border: 10px solid black;
+}
+.pressed {
+    box-shadow: 0 0 30px gray;
+    background-color: blue;
+  }
+ 
+.remove{
+    background-color: red;
+    opacity: 0.5;
+}
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: pink;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
+.skyblue{
+    background-color: skyblue;
+}
